@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello!👋 I'm Sneha Thampi
 
-<!--
-**Sneha-Thampi/Sneha-Thampi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ABOUT ME:
+#### I’m currently a student pursuing Bachelors in Computer Application. I'm passionate about Data Analytics and related fields. I love learning new technologies and applying my knowledge to solve real-world problems.
 
-Here are some ideas to get you started:
+## 🌱 I’m currently learning:
+#### Programming in Python, C, and SQL
+#### Foundations of data analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I’m working on:
+#### Building my portfolio
+#### Completing online certifications on platforms like Coursera, Infosys Springboard, etc
+#### Practicing coding challenges on platforms like HackerRank, Leetcode, etc.
+
+## 🤔 I’m looking for:
+#### Tips on how to get started with real-world projects.
+#### Guidance on contributing to beginner-friendly open-source projects.
+
+## 📫 How to reach me:
+#### LinkedIn: www.linkedin.com/in/sneha-thampi-24ab04268
