@@ -1,11 +1,12 @@
 # Hello!👋 I'm Sneha Thampi
 
 ### ABOUT ME:
-#### I’m currently a student pursuing Bachelors in Computer Application. I have a keen interest in Data Analytics and related fields. I love learning new technologies and applying my knowledge to solve real-world problems.
+#### I’m currently a student pursuing Bachelors in Computer Application. I have a keen interest in Web Development, Data Analytics and related fields. I love learning new technologies and applying my knowledge to solve real-world problems.
 
 ## 🌱 I’m currently learning:
-#### Programming in Python, C, and SQL
+#### Programming in Python, C, and Java
 #### Foundations of data analysis
+#### DBMS
 
 ## 🔭 I’m working on:
 #### Building my portfolio
